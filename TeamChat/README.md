@@ -7,10 +7,10 @@ You can change the COMMAND, the FORMAT and the PREFIX in the config.yml file.
 
 
 <h2>Commands:</h2>
-- [X] @tc <Message> - To write in the TeamChat.
+@tc <Message> - To write in the TeamChat.
 
 <h2>Permissions:</h2>
-- [x] teamchat.use - To write and read the TeamChat.
+teamchat.use - To write and read the TeamChat. <br>
 You need a permission plugin (e.g. PermissionsEx).
 
 <h2>How to install:</h2>
