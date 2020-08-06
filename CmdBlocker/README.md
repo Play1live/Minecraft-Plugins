@@ -9,7 +9,7 @@ Give permissions to bypass!</h3>​
 
 
 <h2>Config</h2>
-[Config.yml](http://github.com)
+[Config.yml](https://github.com/Play1live/Minecraft-Plugins/blob/master/CmdBlocker/CmdBlocker/src/config.yml)
 
 
 <h2>Permissions:</h2>
