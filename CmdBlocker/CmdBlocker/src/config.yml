@@ -1,0 +1,40 @@
+#################################################################################################
+# +-------------------------------------------------------------------------------------------+ #
+# |                                                                                           | #
+# |                                   C M D B L O C K E R                                     | #
+# |                                                                                           | #
+# +-------------------------------------------------------------------------------------------+ #
+#################################################################################################
+
+# Here you can add commands that should not be used by the players on your server.
+
+# You can add as much as commands you want.
+# - 'yourCommand'     ---->> GOOD!
+# - '/yourCommand'     ---->> GOOD!
+# - /yourCommand     ---->> BAD!
+# -'/yourCommand'     ---->> BAD! 
+
+BlockedCommands:
+- 'plugins'
+- 'pl'
+- 'help'
+- '?'
+- 'me'
+- 'ver'
+- 'version'
+- 'bukkit:?'
+- 'bukkit:about'
+- 'bukkit:pl'
+- 'bukkit:plugins'
+- 'bukkit:ver'
+- 'bukkit:version'
+
+# For Owners/Teammembers you can bypass blocked commands adding the permission "bypass.cmdblocker"
+
+#################################################################################################
+
+# You can change the message that appears.
+# Color codes are supported. Use: &0 -> black etc.
+# Use %PLAYER% if you want to display the name of the player in the message.
+
+message: '%PLAYER% &cYou can not do this!'

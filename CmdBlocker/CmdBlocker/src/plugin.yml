@@ -1,0 +1,7 @@
+main: de.play1live.Main
+name: CmdBlocker
+version: 1.5
+description: Blocks unwanted commands and prevents players from seeing which plugins exist on your Server.
+author: Play1live
+
+commands:
